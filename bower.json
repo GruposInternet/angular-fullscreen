@@ -3,10 +3,10 @@
   "name": "angular-fullscreen",
   "description": "An AngularJS service and a directive to quickly use the HTML5 fullscreen API",
   "version": "1.0.1",
-  "homepage": "https://github.com/fabiobiondi/angular-fullscreen",
+  "homepage": "https://github.com/GruposInternet/angular-fullscreen",
   "repository": {
     "type": "git",
-    "url": "git://github.com/fabiobiondi/angular-fullscreen"
+    "url": "git://github.com/GruposInternet/angular-fullscreen"
   },
   "main": "./src/angular-fullscreen.js",
   "keywords": [
